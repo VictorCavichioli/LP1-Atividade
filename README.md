@@ -16,7 +16,7 @@ Instancie objetos delas na classe Teste
 <h1>Interfaces da opção 1:</h1>
 
 <p align="center">
-  <img src="https://github.com/VictorCavichioli/LP1-Atividade/blob/main/ImagesInterface/CarroInterface.png" />
+  <img src="https://github.com/VictorCavichioli/LP1-Atividade/blob/main/ImagesInterface/PessoaInterface.png" />
 </p>  
 
 <p align="center">
@@ -24,7 +24,7 @@ Instancie objetos delas na classe Teste
 </p>  
 
 <p align="center">
-  <img src="https://github.com/VictorCavichioli/LP1-Atividade/blob/main/ImagesInterface/PessoaInterface.png" />
+  <img src="https://github.com/VictorCavichioli/LP1-Atividade/blob/main/ImagesInterface/CarroInterface.png" />
 </p>  
 
 
